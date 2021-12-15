@@ -33,4 +33,4 @@ python main.py
 
 ## License
 
-Licensed under the Apache License, Version 2.0. Copyright 2020-2021 Katana ML, Andrej Baranovskij. [Copy of the license]().
+Licensed under the Apache License, Version 2.0. Copyright 2020-2021 Katana ML, Andrej Baranovskij. [Copy of the license](https://github.com/katanaml/text-completion/blob/main/LICENSE).
