@@ -1,4 +1,8 @@
-# Katana ML Text Completion with Hugging Face DistilBERT and TensorFlow.js
+# Katana ML Text Completion
+
+## Description
+
+Runs with with Hugging Face DistilBERT and TensorFlow.js on Node.js
 
 - distilbert-model - converter from Hugging Face model format to TensorFlow SavedModel
 
