@@ -1,4 +1,4 @@
-# Katana ML Text Completion
+# Katana ML Text Completion &#129303;
 
 ## Description
 
