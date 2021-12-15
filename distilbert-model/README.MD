@@ -1,4 +1,8 @@
-# Converter from Hugging Face DistilBERT model into TensorFlow SavedModel
+# Converter &#129303;
+
+## Description
+
+Converter from Hugging Face DistilBERT Python model into TensorFlow SavedModel to be reusable in TensorFlow.js Node.js
 
 ## Author
 
