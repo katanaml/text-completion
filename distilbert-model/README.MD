@@ -4,10 +4,6 @@
 
 Converter from Hugging Face DistilBERT Python model into TensorFlow SavedModel to be reusable in TensorFlow.js Node.js
 
-## Author
-
-[Katana ML](https://katanaml.io), [Andrej Baranovskij](https://github.com/abaranovskis-redsamurai)
-
 ## Instructions
 
 1. Install libraries
@@ -34,6 +30,10 @@ python main.py
 ├── saved_model
 └── requirements.txt
 ```
+
+## Author
+
+[Katana ML](https://katanaml.io), [Andrej Baranovskij](https://github.com/abaranovskis-redsamurai)
 
 ## License
 
