@@ -6,6 +6,8 @@ Runs with with Hugging Face DistilBERT and TensorFlow.js on Node.js
 
 - distilbert-model - converter from Hugging Face model format to TensorFlow SavedModel
 
+This is work in progress repo. I'm working on TensorFlow.js part to load SavedModel and run inference.
+
 ## References
 
 - [DistilBERT base model (uncased)](https://huggingface.co/distilbert-base-uncased)
