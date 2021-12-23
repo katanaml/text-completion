@@ -121,3 +121,4 @@ distilbert-model/.idea/modules.xml
 distilbert-model/saved_model/distilbert-base-uncased/saved_model.pb
 distilbert-model/saved_model/distilbert-base-uncased/variables/variables.data-00000-of-00001
 distilbert-model/saved_model/distilbert-base-uncased/variables/variables.index
+distilbert-model/.idea/vcs.xml
